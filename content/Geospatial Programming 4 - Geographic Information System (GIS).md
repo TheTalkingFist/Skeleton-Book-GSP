@@ -62,6 +62,8 @@ Earth is flat!
 
 No, it's not. But, we can project Earth's very non-flat mapping onto a flat plane.
 
+It's a reference systems for identifying locations and measuring features on flap (map) plane.
+
 There are a few ways to do this.
 
 ### Planar Projections
