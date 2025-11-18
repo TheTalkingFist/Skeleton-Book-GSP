@@ -22,7 +22,7 @@ To put this all into perspective, we can take the road, carpark and bus stop lab
 
 ---
 
-## Geographic Coordinate Systems (GCS)
+## Coordinate Reference System (CRS)
 
 As we know, Earth is a sphere. But, not really. It bulges at the equator, and is way less smooth than... smooth.
 
@@ -31,12 +31,12 @@ The reason our globes are visualised as being smooth is because of coordinates, 
 CRS is a framework of defining real-world locations based on a globe model.
 
 There are two types of CRS:
-1. Geographic Coordinate System
-2. Projected Coordinate System
+1. **Geographic Coordinate System**
+2. **Projected Coordinate System**
 
 So, how do we go from a weird, not-really-ball-shaped ball to a ball, or even a flat map?
 
-### Data and Datum
+### GCS, Data and Datum
 A datum is a model that has the following:
 1. Angular units (i.e degrees)
 2. A starting point (0, 0), and

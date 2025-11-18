@@ -82,7 +82,9 @@ We usually use UAVs, helicopters and airplanes for local issues. Not to say sate
 
 Examples include:
 - **Li**ght **D**etection **a**nd **R**anging (LIDAR)
+	- Building topographic models on the ground
 - **So**und **Na**vigation **R**anging (Sonar)
+	- Building topographic models underwater
 - Radiometers (measures heat) and Spectrometers (measures electromagnetism)
 
 # Global Issues
