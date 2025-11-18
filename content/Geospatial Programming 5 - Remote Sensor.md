@@ -5,6 +5,9 @@ It allows users to capture, visualise and analyse objects and features on Earth'
 
 ---
 ## Sensor Types
+
+These are applications of Remote-Sensing
+
 - Unmanned Aerial Vehicles (UAV) and Drones
 	- Advantages:
 		- Provides high-res images
